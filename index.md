@@ -16,12 +16,12 @@ Outside of academia, I began to study Chinese calligraphy since I was a kid and 
 
 
 ## Awards and Honors
-- **[Mar.2023]Lassonde Undergraduate Research Award (LURA)
-- **[Mar.2023]York University Continuing Student Scholarship
-- **[Aug.2022]York University Continuing Student Scholarship
-- **[Sep.2021]York University Continuing Student Scholarship
-- **[Aug.2020]York University International Scholarship of Merit
-- **[May.2020]York University International Scholarship of Merit
+- **[Mar.2023]** Lassonde Undergraduate Research Award (LURA)
+- **[Mar.2023]** York University Continuing Student Scholarship
+- **[Aug.2022]** York University Continuing Student Scholarship
+- **[Sep.2021]** York University Continuing Student Scholarship
+- **[Aug.2020]** York University International Scholarship of Merit
+- **[May.2020]** York University International Scholarship of Merit
 
 
 
