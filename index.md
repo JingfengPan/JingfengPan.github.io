@@ -8,6 +8,10 @@ I'm a <a href="https://lassonde.yorku.ca/academics/computer-science" target="_bl
 Outside of academia, I began to study Chinese calligraphy since I was a kid and won many provincial and national awards. I also enjoy fitness and stick to my training program every week. In addition, I like football, table tennis, traveling, photography, reading, computer games...
 
 
+## Research Interest
+Artificial Intelligence, Machine Learning, Natural Language Processing, Computer Vision, Computational Biology
+
+
 ## Research Experience
 - **[Oct.2022-present]** Student Research Assistance: Optimizing Data Compression Using Online Clustering for Data Migration
 - **[Sep.2022-Apr.2023]** Student Research Assistance: Attentive Sensor
