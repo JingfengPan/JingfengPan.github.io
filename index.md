@@ -31,4 +31,4 @@ Artificial Intelligence, Machine Learning, Natural Language Processing, Computer
 
 ## Publications
 - **[May.2023]** <a href="https://dl.acm.org/doi/abs/10.5555/3615924.3615944" target="_blank">*Optimizing Data Migration Using Online Clustering*</a> has been presented at **CASCON 2023**.
-- **[Feb.2024]** *Optimizing Data Migration Using Online Classification and Data Re-ordering * has been accepted by **VLDB 2024**.
+- **[Feb.2024]** *Optimizing Data Migration Using Online Classification and Data Re-ordering* has been accepted by **VLDB 2024**.
