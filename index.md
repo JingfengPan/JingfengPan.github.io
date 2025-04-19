@@ -3,32 +3,43 @@ layout: homepage
 ---
 
 ## About Me
-I'm a <a href="https://lassonde.yorku.ca/academics/computer-science" target="_blank"> Computer Science</a> undergraduate from <a href="https://www.yorku.ca/" target="_blank"> York University</a>'s <a href="https://lassonde.yorku.ca/" target="_blank"> Lassonde School of Engineering</a>. Now I am applying for a CS master/phd degree in the USA.
+I'm currently a **Master's student in Computer Science** at the University of Chicago’s Physical Sciences Division. I work as a Research Assistant with Prof. Pedro Lopes, developing universal Python libraries for neurostimulation devices that bridge hardware and software ecosystems in clinical and experimental settings.
 
-Outside of academia, I began to study Chinese calligraphy since I was a kid and won many provincial and national awards. I also enjoy fitness and stick to my training program every week. In addition, I like football, table tennis, traveling, photography, reading, computer games...
+Outside of academia, I've studied Chinese calligraphy since childhood—earning provincial and national awards—and maintain a disciplined fitness routine. I also enjoy football, table tennis, traveling, photography, and reading.
 
-
-## Research Interest
-Artificial Intelligence, Machine Learning, Natural Language Processing, Computer Vision, Robotics, Big Data
-
+## Research Interests
+- **Robotics & AI-driven Systems**
+- Machine Learning & Deep Learning
+- Computer Vision
+- Data Migration & Compression Algorithms
+- Neurostimulation Platforms
 
 ## Research Experience
-- **[Oct.2022-present]** Student Research Assistance: Optimizing Data Compression Using Online Clustering/Online Classification for Data Migration
-- **[Sep.2022-Apr.2023]** Student Research Assistance: Attentive Sensing for Long-Range Face Recognition Robots
-- **[Sep.2022-Apr.2023]** EXPLORE Project: ECOs from the Dark
-- **[Sep.2022-Jan.2023]** Student Research Assistance: Questions Generation from Text
+- **Mar 2025 – Present** &nbsp;| University of Chicago, Research Assistant
+  - Developing a universal Python library for neurostimulators (EMS, TMS), designing modular APIs for seamless device integration.
 
+- **Oct 2022 – May 2024** &nbsp;| York University, Research Assistant
+  - Optimized data migration through online clustering and classification, improving throughput by 24% and reducing costs by 19%.
+  - First-author publication at CASCON 2023; co-authored “DAMOCRO: A Data Migration Framework Using Online Classification and Reordering,” accepted at CIKM 2025.
 
-## Awards and Honors
-- **[Mar.2023]** Lassonde Undergraduate Research Award (LURA)
-- **[Mar.2023]** York University Continuing Student Scholarship
-- **[Aug.2022]** York University Continuing Student Scholarship
-- **[Sep.2021]** York University Continuing Student Scholarship
-- **[Aug.2020]** York University International Scholarship of Merit
-- **[May.2020]** York University International Scholarship of Merit
+- **Sep 2022 – Apr 2023** &nbsp;| York University, Research Assistant
+  - Attentive sensing for long-range face recognition robots: implemented deep-learning detection and recognition pipelines using Docker, ROS, and PyTorch.
 
+- **Sep 2022 – Apr 2023** &nbsp;| Goethe University & LIGO Collaboration
+  - Modeled exotic compact objects (ECOs) effects on neutron stars with feedforward neural networks, leveraging SHAP analysis for model interpretability.
 
+- **May 2022 – Jan 2023** &nbsp;| York University, Research Assistant
+  - Automated question generation from text; managed data collection via MTurk and designed processing pipelines for scalable annotation.
+
+## Awards & Honors
+- **Lassonde Undergraduate Research Award (LURA)** – Mar 2023
+- **York University Continuing Student Scholarship** – 2020 & 2021 & 2022
+- **York University International Scholarship of Merit** – 2020
 
 ## Publications
-- **[May.2023]** <a href="https://dl.acm.org/doi/abs/10.5555/3615924.3615944" target="_blank">*Optimizing Data Migration Using Online Clustering*</a> has been presented at **CASCON 2023**.
-- **[Feb.2024]** *Optimizing Data Migration Using Online Classification and Data Re-ordering* has been accepted by **VLDB 2024**.
+- **May 2023**: [*Optimizing Data Migration Using Online Clustering*](https://dl.acm.org/doi/abs/10.5555/3615924.3615944) — CASCON 2023
+- **CIKM 2025**: “DAMOCRO: A Data Migration Framework Using Online Classification and Reordering” (accepted)
+
+---
+
+Feel free to explore my [CV](https://jingfengpan.github.io/CV.pdf) or connect with me on [LinkedIn](www.linkedin.com/in/jingfeng-pan-a8b462264)!
